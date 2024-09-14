@@ -2,7 +2,7 @@
 
 A small banner ad for the web, using CSS animations.
 
-[Demo](https://envisagecyberart.in/projects/applications/ad/)
+[Demo](https://envisagecyberart.in/projects/animations/ad/)
 
 ![Screenshot](Screenshot.jpg?raw=true)
 
